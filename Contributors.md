@@ -10,6 +10,7 @@
 - [May Oo](https://github.com/mayoo)
 - [Samuel Favarin](https://github.com/SamuelBFavarin)
 - [abirhussain](https://github.com/abirhussain)
+- [hpotter](https://github.com/hpotter)
 - [Halfhero](https://github.com/Halfhero212)
 - [HaibaoM55](https://github.com/HaibaoM55)
 - [AbelValencia](https://github.com/AbelValencia)
